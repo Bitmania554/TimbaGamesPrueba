@@ -29,13 +29,13 @@
 ```
 
 CONTENIDO
-1. Clases
-2. Modelo
-3. Figuras
-4. Interfaz
-5. Ejecutable
-6. Manual de usuario
-7. Instalación
+>> 1. Clases
+>> 2. Modelo
+>> 3. Figuras
+>> 4. Interfaz
+>> 5. Ejecutable
+>> 6. Manual de usuario
+>> 7. Instalación
 
 
 
