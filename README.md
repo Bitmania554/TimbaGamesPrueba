@@ -56,7 +56,7 @@ CONTENIDO
    
  4. Interfaz
  
-   ![image](https://user-images.githubusercontent.com/70168236/135382574-c1d97a75-8901-48cf-85b4-95f6da2d5d49.png)
+   ![image](https://user-images.githubusercontent.com/70168236/135383987-c38868c7-5dda-402d-97d7-b4ed2abf7f68.png)
 
  
  5. Ejecutable
