@@ -1,6 +1,7 @@
 # TimbaGamesPrueba
 
 ## Windows Form for visual studios 2019
+>> para visualizar de mejor manera, abrir con un editor .md
 
 ##escena de creación del formulario
 ```c#
@@ -36,7 +37,7 @@ CONTENIDO
 6. Manual de usuario
 7. Instalación
 
->> para visualizar de mejor manera, abrir con un editor .md
+
 
 1. Clase
    
