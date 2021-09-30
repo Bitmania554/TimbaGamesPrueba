@@ -67,7 +67,7 @@ CONTENIDO
  
     >> en la interfaz, se mostraran 7 botones, 4 son las figuras geometricas, al presionarlas, ellas saldran en el recuadro de espacio en blanco. Los otros botones son para la direccion de inzquierda a derecha, de arriba hacia abajo y el movimiento en forma de caja, por ultimo un boton que detenga el proceso.
 
-    >> los botones de las figuras estaran en la parte inferior del formulario y los de movimienot en la parte inferior derecha, el de stop en la parte superior derecha.
+    >> los botones de las figuras estaran en la parte inferior izquierda del formulario y los de movimientos en la parte inferior derecha, el de boton que permite detener los proceso (stop) se ubica en la parte superior derecha.
     
 
 
