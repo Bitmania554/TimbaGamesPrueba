@@ -36,6 +36,7 @@ CONTENIDO
 6. Manual de usuario
 7. Instalación
 
+>> para visualizar de mejor manera, abrir con un editor .md
 
 1. Clase
    
@@ -75,6 +76,7 @@ CONTENIDO
  ![image](https://user-images.githubusercontent.com/70168236/135385495-b2118e7c-7218-4b8c-b715-9baf6d3346ae.png)
 
     >> en la carpeta comprimida donde salen los archviso de codigo, esta el ejecutable dentro de otra carpeta con el nombre "publish", en el recuadro rojo, da doble clcik para abrir e instalar la aplicación.
+    
     
 
 
