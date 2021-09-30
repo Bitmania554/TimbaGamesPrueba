@@ -5,12 +5,12 @@
 ##Nicolás Stevens Parra Redondo - Test Code Timba Games
 
 CONTENIDO
-1. Instalación
-2. Modelo
-3. Figuras
-4. Clases
-5. Interfaz y Animación
-6. Manual de usuario
+>> 1. Instalación
+>> 2. Modelo
+>> 3. Figuras
+>> 4. Clases
+>> 5. Interfaz y Animación
+>> 6. Manual de usuario
 
 1. Instalación
    
