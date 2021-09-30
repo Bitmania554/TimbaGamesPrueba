@@ -34,6 +34,7 @@ CONTENIDO
 4. Interfaz
 5. Ejecutable
 6. Manual de usuario
+7. Instalación
 
 
 1. Clase
@@ -68,6 +69,12 @@ CONTENIDO
     >> en la interfaz, se mostraran 7 botones, 4 son las figuras geometricas, al presionarlas, ellas saldran en el recuadro de espacio en blanco. Los otros botones son para la direccion de inzquierda a derecha, de arriba hacia abajo y el movimiento en forma de caja, por ultimo un boton que detenga el proceso.
 
     >> los botones de las figuras estaran en la parte inferior izquierda del formulario y los de movimientos en la parte inferior derecha, el de boton que permite detener los proceso (stop) se ubica en la parte superior derecha.
+ 
+ 7. Instalacion 
+ 
+ ![image](https://user-images.githubusercontent.com/70168236/135385495-b2118e7c-7218-4b8c-b715-9baf6d3346ae.png)
+
+    >> en la carpeta comprimida donde salen los archviso de codigo, esta el ejecutable dentro de otra carpeta con el nombre "publish", en el recuadro rojo, da doble clcik para abrir e instalar la aplicación.
     
 
 
